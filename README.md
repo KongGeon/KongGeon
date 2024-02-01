@@ -30,7 +30,7 @@
 #### 🛠️ Github Stats
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KongGeon&show_icons=true&include_all_commits=true&bg_color=ffffff&title_color=181818&text_color=181818">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KongGeon&show_icons=true&include_all_commits=true&bg_color=ffffff&title_color=181818&text_color=181818&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KongGeon&layout=compact&bg_color=ffffff&title_color=181818&text_color=181818">
 </p>
 
